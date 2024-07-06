@@ -1,0 +1,2 @@
+x='sandeep'
+print=(x)

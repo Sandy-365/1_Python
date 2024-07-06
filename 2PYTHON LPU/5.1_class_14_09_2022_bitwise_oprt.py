@@ -1,0 +1,10 @@
+val1=int(input("Enter an integer value ::>> "))
+val2=int(input("Enter an integer value ::>> "))
+
+print("\n")
+print(val1,"\t>>\t",val2,"\tis ",val1>>val2)
+print(val1,"\t<<\t",val2,"\tis ",val1<<val2)
+print(val1,"\t&\t",val2,"\tis ",val1&val2)
+print(val1,"\t|\t",val2,"\tis ",val1|val2)
+print("\t~\t",val1,"\tis",~val1) 
+print(val1,"\t^\t",val2,"\tis ",val1^val2)

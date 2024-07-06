@@ -1,0 +1,6 @@
+str1=input("Enter a string ::>> ")
+str2=input("Enter a sbu string ::>> ")
+print("\n")
+print(str2,"in",str1,":",str2 in str1)
+print("\n")
+print(str2,"not in",str1,":",str2 not in str1)
